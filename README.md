@@ -72,7 +72,7 @@
    <h2>How to Run the Project</h2>
         <ol>
             <li>Clone the repository:</li>
-            <pre><code>git clone https://github.com/yourusername/credit-card-detection.git</code></pre>
+            <pre><code>git clone https://github.com/Mokshitha1303/Credit-card-number-detection/blob/main/Credit_Card_Number_Detection.ipynb</code></pre>
             <li>Navigate to the project directory:</li>
             <pre><code>cd credit-card-detection</code></pre>
             <li>Run the script:</li>
